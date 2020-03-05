@@ -1,0 +1,7 @@
+{
+    "server": {
+        "Addr" : 9090,
+        "ReadTimeout": 3000,
+        "WriteTimeout": 3000
+    }
+}
